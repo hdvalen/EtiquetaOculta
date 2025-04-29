@@ -1,0 +1,14 @@
+/home/camper/Documentos/etiquetaOculta/bin/Debug/net8.0/etiquetaOculta
+/home/camper/Documentos/etiquetaOculta/bin/Debug/net8.0/etiquetaOculta.deps.json
+/home/camper/Documentos/etiquetaOculta/bin/Debug/net8.0/etiquetaOculta.runtimeconfig.json
+/home/camper/Documentos/etiquetaOculta/bin/Debug/net8.0/etiquetaOculta.dll
+/home/camper/Documentos/etiquetaOculta/bin/Debug/net8.0/etiquetaOculta.pdb
+/home/camper/Documentos/etiquetaOculta/obj/Debug/net8.0/etiquetaOculta.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/Documentos/etiquetaOculta/obj/Debug/net8.0/etiquetaOculta.AssemblyInfoInputs.cache
+/home/camper/Documentos/etiquetaOculta/obj/Debug/net8.0/etiquetaOculta.AssemblyInfo.cs
+/home/camper/Documentos/etiquetaOculta/obj/Debug/net8.0/etiquetaOculta.csproj.CoreCompileInputs.cache
+/home/camper/Documentos/etiquetaOculta/obj/Debug/net8.0/etiquetaOculta.dll
+/home/camper/Documentos/etiquetaOculta/obj/Debug/net8.0/refint/etiquetaOculta.dll
+/home/camper/Documentos/etiquetaOculta/obj/Debug/net8.0/etiquetaOculta.pdb
+/home/camper/Documentos/etiquetaOculta/obj/Debug/net8.0/etiquetaOculta.genruntimeconfig.cache
+/home/camper/Documentos/etiquetaOculta/obj/Debug/net8.0/ref/etiquetaOculta.dll
