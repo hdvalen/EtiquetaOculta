@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/camper/Documentos/etiquetaOculta/etiquetaOculta.csproj": {}
+    "C:\\Users\\ususario\\Documents\\Valentina\\campusland\\EtiquetaOculta\\etiquetaOculta.csproj": {}
   },
   "projects": {
-    "/home/camper/Documentos/etiquetaOculta/etiquetaOculta.csproj": {
+    "C:\\Users\\ususario\\Documents\\Valentina\\campusland\\EtiquetaOculta\\etiquetaOculta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/camper/Documentos/etiquetaOculta/etiquetaOculta.csproj",
+        "projectUniqueName": "C:\\Users\\ususario\\Documents\\Valentina\\campusland\\EtiquetaOculta\\etiquetaOculta.csproj",
         "projectName": "etiquetaOculta",
-        "projectPath": "/home/camper/Documentos/etiquetaOculta/etiquetaOculta.csproj",
-        "packagesPath": "/home/camper/.nuget/packages/",
-        "outputPath": "/home/camper/Documentos/etiquetaOculta/obj/",
+        "projectPath": "C:\\Users\\ususario\\Documents\\Valentina\\campusland\\EtiquetaOculta\\etiquetaOculta.csproj",
+        "packagesPath": "C:\\Users\\ususario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ususario\\Documents\\Valentina\\campusland\\EtiquetaOculta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/camper/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ususario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
